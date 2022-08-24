@@ -38,7 +38,7 @@ Here, we will use a web service available at randomtext.me to produce some rando
 To use this web service, simply find the WebClient Module in the Module Library on the left hand side of the Designer. You can either type WebClient in the search bar, or find the Module under the Data Sources category. Drag and drop the Module onto the canvas.
 
 The WebClient Module has a number of input. For this example, simply "hard-code" in the following URL:
-http://www.randomtext.me/download/txt/gibberish/p-5/25-45
+http://www.randomtext.me/download/txt/gibberish/p-5/25-45. (If this link does not work, you can alternatively just create a few random words using the built in string functions)
 
 ![!Composable Example WebClient Module](img/03.08.Img_3.png)
 
